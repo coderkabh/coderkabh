@@ -1,4 +1,4 @@
-### Hi everyone , I'm Kanishk Bharadwaj
+### Hi everyone 👋, I'm Kanishk Bharadwaj 👨‍💻
 
 --------------
 - 🔭 I’m currently working on MERN Stack Development & Machine Learning.
